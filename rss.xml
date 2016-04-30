@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The collectivist]]></title>
+        <description><![CDATA[The collectivist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 20:14:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f3e9010-fa93-453d-bf22-9cbb90cf536d.jpg">]]></description>
+            <link>undefinednous-y-voila-nous-donnons-a-collectivity-un-espace-dexpres/index.html</link>
+            <guid isPermaLink="false">b1f75cdc-3331-4d9c-893e-5a6a0ea08e31</guid>
+            <pubDate>Sat, 30 Apr 2016 20:14:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
