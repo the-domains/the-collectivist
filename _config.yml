@@ -1,0 +1,28 @@
+name: The collectivist
+favicon: null
+layout_spectrum: 0.5540853664278984
+typography_spectrum: 0.06302850414067507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3813833431340754
+  lightness: 0.2658165777102113
+  saturation: 0.6250723414123058
+  rhythmicContrast: 0.923585734795779
+purpose: []
